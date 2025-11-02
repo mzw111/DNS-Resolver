@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Executables and Installers
+*.exe
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
